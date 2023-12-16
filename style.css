@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#main{
+   display:flex;
+   border: 2px solid black;
+   justify-content: space-around;
+   margin: 20px;
+   padding: 20px;
+   
+}
+#para{
+    padding-top: 10px;
+}
+#link{
+
+padding-top: 20px;
+}
+#image{
+    width: 70%;
+    height:40%;
+    margin: 20px;
+    display: flex;
+}
+
+#head{
+    margin: 20px;
+
+}
+#about{
+    
+    padding: 20px;
+}
